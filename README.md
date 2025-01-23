@@ -17,4 +17,4 @@ repositorio debe contener al menos 3 commits.
 Puede ser realizado en grupo. No más de 3 integrantes.
 Cada integrante deberá entregar el enlace de su repositorio con el código.
 Fecha de entrega: Lunes 27 de Enero del 2025.
-![Mi logo](.aseets/imag.jpg "Flujo")
+![Mi logo](assets/imag.jpg "Flujo")
